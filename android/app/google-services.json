@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691692773085",
+    "project_id": "chatapptwo-edbc8",
+    "storage_bucket": "chatapptwo-edbc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691692773085:android:c428f76c23c68424f2c534",
+        "android_client_info": {
+          "package_name": "com.example.chatap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_14XvDOV7ummWTXXrEmdU3rgE5ZXq-dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691692773085:android:7bad0470f3bc30edf2c534",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_14XvDOV7ummWTXXrEmdU3rgE5ZXq-dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
